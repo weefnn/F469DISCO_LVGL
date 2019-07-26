@@ -44,10 +44,10 @@ int main(void)
   tft_init();
   touchpad_init();
 
-  //demo_create();
+  demo_create();
   //benchmark_create();
   //sysmon_create();
-  lv_tutorial_themes();
+  //lv_tutorial_themes();
 
   while (1)
   {
