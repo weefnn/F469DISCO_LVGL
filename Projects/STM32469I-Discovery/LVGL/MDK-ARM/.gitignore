@@ -1,0 +1,7 @@
+﻿#
+# .gitignore: Ignore untracked files or directories.
+#
+
+DebugConfig/*
+RTE/*
+STM32468I_DISCO/*
